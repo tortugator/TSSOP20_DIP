@@ -1,0 +1,7 @@
+*.kicad_prl
+*-backups/
+fp-info-cache
+sym-lib-table
+fp-lib-table
+.DS_Store
+Thumbs.db
